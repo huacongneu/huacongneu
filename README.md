@@ -1,0 +1,4 @@
+- Hi, I’m Hua.
+- Currently pursuing my master's degree at Northeastern University.
+- Looking for Software Engineer Internships(2022 Summer)
+- Please feel free to reach out!
