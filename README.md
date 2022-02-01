@@ -2,7 +2,7 @@
 
 I am Edward! I am pursuing my master's degree in Computer Science at Northeastern University.
 
-<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
 - 👨🏻‍💻  Passionate about learning and applying new technologies in solving real-world problems.  
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/huacong/) for complete background and contact.
