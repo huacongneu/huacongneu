@@ -1,4 +1,4 @@
-<h2> Hey 👋<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" high = "200"></h2>
+<h2> Hey 👋<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100" high = "50"></h2>
 
 I am Edward! I am pursuing my master's degree in Computer Science at Northeastern University.
 
