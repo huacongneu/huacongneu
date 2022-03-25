@@ -1,6 +1,6 @@
 <h2> Hey 👋<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100" high = "50"></h2>
 
-I am Edward! I am pursuing my master's degree in Computer Science at Northeastern University.
+I am Hua! I am pursuing my master's degree in Computer Science at Northeastern University.
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
