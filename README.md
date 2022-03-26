@@ -6,4 +6,4 @@ I am Hua! I am pursuing my master's degree in Computer Science at Northeastern U
 
 - 💬 Passionate about learning and applying new technologies in solving real-world problems.  
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/huacong/) for complete background and contact.
-- 👨🏻‍💻 Actively seeking 2022 Summer/Fall Software Engineer Internships! 
+- 👨🏻‍💻  Actively seeking 2022 Summer/Fall Software Engineer Internships! 
