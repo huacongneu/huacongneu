@@ -4,7 +4,7 @@ I am Hua! I am pursuing my master's degree in Computer Science at Northeastern U
 
 <img align='right' src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="200">
 
-- 💬 Passionate about learning and applying new technologies in solving real-world problems.  
+- 💬 Passionate about software engineering and enjoys building impactful technology.  
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/huacong/) for complete background and contact.
 - 💜 Former Software Engineer Intern at [Yahoo](https://www.linkedin.com/company/yahoo/mycompany/) for 2022 Summer.
 - 🤓 Actively seeking 2023 Full-time SDE opportunities!
